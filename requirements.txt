@@ -1,0 +1,7 @@
+flask
+opencv-python
+mediapipe
+sklearn
+flask_restful
+pandas
+sklearn
